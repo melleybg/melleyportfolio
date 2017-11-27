@@ -23,7 +23,7 @@
 	font-weight: bold;
 	letter-spacing:1px;
 	line-height: 50px;
-	font-size: 41px;
+	font-size: 33px;
 	text-align:center;
 	display:flex;
 	font-family: 'Khand', sans-serif;
@@ -41,7 +41,7 @@ button {
 	font-size: 20px;
 	padding: 5px;
 	background-color: transparent;
-	border: 2px solid #4C4E4F;
+	border: 2px solid red;
 }
 
 .hide{
@@ -79,6 +79,7 @@ button {
 	margin-top: 30px;
 
 }
+
 
 #mainpage {
 	margin: 60px auto;
@@ -120,6 +121,7 @@ h1, h2, h3 {
 
 #projects img {
 	height: 350px;
+	width:550px;
 }
 #projects h3 {
 	color:#b9c5c8;
@@ -182,7 +184,12 @@ a {
 .image_on:hover {
   opacity:0;
 }
+#bald{
+	font-weight: bold;
+	color: #889696
 
+
+}
 
 .contact {
 	display: flex;
